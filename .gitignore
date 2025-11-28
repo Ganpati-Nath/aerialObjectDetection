@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+saved_models/
+logs/
+*.h5
+*.ckpt
+*.pt
+.DS_Store
